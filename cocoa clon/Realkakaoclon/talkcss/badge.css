@@ -1,0 +1,26 @@
+.badge {
+  display: flex;
+  background-color: tomato;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+.cogbadge_box {
+  position: relative;
+}
+
+.cogbadge {
+  position: absolute;
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  left: 0.5px;
+  bottom: 20px;
+}

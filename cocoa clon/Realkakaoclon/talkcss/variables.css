@@ -1,0 +1,7 @@
+:root {
+  --sky: rgba(48, 145, 209, 0.5);
+  --horizontal-space: 25px;
+  --bulegrey: rgb(44, 57, 77);
+  --borderdownbar: 1px solid rgba(0, 0, 0, 0.2);
+  --grey: rgba(0, 0, 0, 0.4);
+}
